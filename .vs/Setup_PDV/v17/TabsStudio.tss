@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\Setup_PDV\Setup_PDV\wf_SetupPDV.cs</string>
+      <string>C:\Users\israe\source\repos\Setup_PDV\Setup_PDV\wf_SetupPDV.cs</string>
+      <string>C:\Users\israe\source\repos\Setup_PDV\Setup_PDV\wf_SetupPDV.Designer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\Setup_PDV\Setup_PDV\Program.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
