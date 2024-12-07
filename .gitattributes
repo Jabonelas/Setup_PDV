@@ -1,0 +1,7 @@
+# Força o Linguist a reconhecer C# como a linguagem principal
+*.cs linguist-language=C#
+
+# Ignora arquivos HTML e similares, caso estejam presentes
+*.html linguist-detectable=false
+*.cshtml linguist-detectable=false
+ 
